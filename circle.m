@@ -1,5 +1,5 @@
 function [ h ] = circle( x,y,r,color)
-%»­Ô²
+%   draw a circle
 %   Detailed explanation goes here
 i=1;
 for theta=0:pi/50:2*pi
